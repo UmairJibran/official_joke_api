@@ -9,6 +9,10 @@
       {
         "url": "https://official-joke-api.appspot.com",
         "description": "Live server"
+      },
+      {
+        "url": "http://localhost:3005",
+        "description": "Local server"
       }
     ],
     "paths": {
